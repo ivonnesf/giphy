@@ -1,0 +1,29 @@
+.buttonsclass{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#buttons-view {
+    padding-top: 20px;
+    padding-bottom:20px  
+}
+#gifs-appear-here {
+box-sizing: border-box;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.text {
+  
+    font-weight: bold;
+}
+.container {
+    padding: 0;
+}
+.buttonsclass {
+    margin-top: 5px;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
